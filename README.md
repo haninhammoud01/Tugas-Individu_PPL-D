@@ -2,7 +2,7 @@
 
 This project implements **Continuous Integration (CI)** to validate student identity in a static web application, as part of the **Pengembangan Perangkat Lunak (PPL)** course at Universitas Trunojoyo Madura.
 
-## 📌 Identitas
+## Identitas
 
 - **Nama**: Hanin  
 - **NIM**: 230411100005  
@@ -10,13 +10,13 @@ This project implements **Continuous Integration (CI)** to validate student iden
 - **Semester**: 5  
 - **Institusi**: Universitas Trunojoyo Madura
 
-## 🛠️ Teknologi
+## Teknologi
 
 - HTML5 + CSS (statis)
 - GitHub Actions (CI pipeline)
 - Git (Version Control)
 
-## ✅ Fitur CI
+## Fitur CI
 
 - Otomatis berjalan saat `push` ke branch `main`
 - Memvalidasi keberadaan file `src/devops-profile.html`
